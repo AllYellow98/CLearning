@@ -1,0 +1,5 @@
+﻿  testC02_220627.c
+C:\Users\Sun\Desktop\CODE\TEST02_220627\TEST02_220627\testC02_220627.c(31,9): error C2022: “1639”: 对字符来说太大
+C:\Users\Sun\Desktop\CODE\TEST02_220627\TEST02_220627\testC02_220627.c(31,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\Users\Sun\Desktop\CODE\TEST02_220627\TEST02_220627\testC02_220627.c(31,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\Sun\Desktop\CODE\TEST02_220627\TEST02_220627\testC02_220627.c(31,9): message : 缺失的可变参数 1 为格式字符串“%c”所需

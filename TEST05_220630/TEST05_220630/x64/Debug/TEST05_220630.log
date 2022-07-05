@@ -1,0 +1,4 @@
+﻿  testC_220630.cpp
+C:\Users\Sun\Desktop\CODE\TEST05_220630\TEST05_220630\testC_220630.cpp(9,9): warning C4477: “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+C:\Users\Sun\Desktop\CODE\TEST05_220630\TEST05_220630\testC_220630.cpp(9,9): warning C4313: "printf": 格式字符串中的 "%c" 与类型为 "char *" 的参数 1 冲突
+  TEST05_220630.vcxproj -> C:\Users\Sun\Desktop\CODE\TEST05_220630\x64\Debug\TEST05_220630.exe
